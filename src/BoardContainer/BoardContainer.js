@@ -82,7 +82,6 @@ class BoardContainer extends Component {
         <div className="board-wrapper">
             {
                 this.state.boards.map((item,i) => {
-                    // return <Board moveItemRight={this.moveItemRight.bind(this,i)} moveItemleft={this.moveItemleft.bind(this,i)} color={item.color} name={item.name} list={item.list} key={i} addItem={this.addItem.bind(this,i)} />
                      return <Board loc={i} length={this.state.boards.length} color={item.color} name={item.name} moveItemLeft={this.moveItemLeft.bind(this,i)} moveItemRight={this.moveItemRight.bind(this,i)} list={item.list} key={i} addItem={this.addItem.bind(this,i)} />
                 })
             }

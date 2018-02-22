@@ -27,7 +27,6 @@ class Board extends Component {
                 </div>
                 {
                     this.props.list.map((item,i) => {
-                        // return <BoardItem name={item} key={i} moveItemLeft={this.props.moveItemLeft.bind(this,i)} moveItemRight={this.props.moveItemRight.bind(this,i)}/>;
                         return <BoardItem loc={this.props.loc} boardLength={this.props.length} name={item} length={this.props.list.length} key={i} moveItemLeft={this.props.moveItemLeft.bind(this,i)} moveItemRight={this.props.moveItemRight.bind(this,i)}/>;
                     })
                 }
