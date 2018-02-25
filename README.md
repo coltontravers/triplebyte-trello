@@ -4,7 +4,6 @@ This is a Trello/Kanban board clone I made with React. This was for an interview
 ----------
 
 
->>>>>>> 7319b4dd642cceb30949e4a8ccef84547a3692f9
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
