@@ -1,0 +1,26 @@
+.Board {
+    width: 25%;
+    display: inline-block;
+    box-shadow: 0px 0px 0px 1px silver;
+    margin: 0 25px 0 25px;
+}
+
+.board-name {
+    padding: .5em;
+}
+
+.board-name.red {
+    background-color: red;
+}
+
+.board-name.blue {
+    background-color: blue;
+}
+
+.board-name.green {
+    background-color: green;
+}
+
+.board-name.silver {
+    background-color: silver;
+}

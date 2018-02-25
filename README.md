@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 This is a Trello/Kanban board clone I made with React. This was for an interview I had with Triplebyte, so it may be useful for people studying for that (though I'm pretty sure they have a multitude of things they have people program, and this is just one).
 
@@ -5,6 +6,8 @@ This is a Trello/Kanban board clone I made with React. This was for an interview
 ----------
 
 
+=======
+>>>>>>> 7319b4dd642cceb30949e4a8ccef84547a3692f9
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
