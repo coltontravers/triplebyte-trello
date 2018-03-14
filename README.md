@@ -1,4 +1,4 @@
-![Trello clone](https://i.imgur.com/xFF1SOA.gifv)
+![Trello clone](https://i.imgur.com/xFF1SOA.gif)
 
 This is a Trello/Kanban board clone I made with React. This was for an interview I had with Triplebyte, so it may be useful for people studying for that (though I'm pretty sure they have a multitude of things they have people program, and this is just one).
 
