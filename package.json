@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "trello-clone",
-=======
-  "name": "react-app",
->>>>>>> 7319b4dd642cceb30949e4a8ccef84547a3692f9
   "version": "0.1.0",
   "private": true,
   "dependencies": {
